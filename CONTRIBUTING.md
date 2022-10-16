@@ -15,6 +15,6 @@
 ---------------------------------------------------------------------------
 #### Name:[If-Then-andSometimesElse] (https://github.com/If-Then-andSometimesElse)
 
--Place: USA
--Bio: I code for fun/learning.
--GitHub: (https://github.com/If-Then-andSometimesElse)
+- Place: USA
+- Bio: I code for fun/learning.
+- GitHub: (https://github.com/If-Then-andSometimesElse)
