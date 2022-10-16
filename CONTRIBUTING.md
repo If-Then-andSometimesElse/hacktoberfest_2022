@@ -11,3 +11,10 @@
 - Place: Colombo, Sri Lanka
 - Bio: I am a UI/UX Designer in a Startup.
 - GitHub: [hiradev](https://github.com/hiradev)
+
+---------------------------------------------------------------------------
+#### Name:[If-Then-andSometimesElse] (https://github.com/If-Then-andSometimesElse)
+
+-Place: USA
+-Bio: I code for fun/learning.
+-GitHub: (https://github.com/If-Then-andSometimesElse)
